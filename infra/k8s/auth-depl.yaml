@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: firask53/auth
+          image: us.gcr.io/ticketing-dev-336217/auth
 ---
 apiVersion: v1
 kind: Service
